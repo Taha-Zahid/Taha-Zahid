@@ -2,7 +2,7 @@
 
 <!-- Intro -->
 I'm a 3rd year Software Engineering student @ Ontario Tech University. Driven by a passion for software development and learning about new technologies that are shaping innovation in today's world. 
-\***\
+
 <!-- Skills -->
 Proficient in Python, Java, HTML/CSS, JS, C, C++, C#, and more
 <!-- Connect -->
